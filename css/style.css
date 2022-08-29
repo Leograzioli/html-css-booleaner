@@ -62,3 +62,28 @@ h1 {
     font-weight: bold;
     margin-left: 20px;
 }
+
+table {
+    margin-top: 20px;
+}
+
+table th{
+    width: 20%;
+    margin-top: 20px;
+    background-color: #4ea0ff;
+    color: white;
+}
+
+table td{
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#more-space {
+    width: 40%;
+}
+
+.table-color {
+    background-color: #95d6f1;
+
+}
